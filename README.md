@@ -1,2 +1,2 @@
 # HassakuLab.Numerics
-Numeric calculation utilities for Unity
+Numeric utilities for Unity
