@@ -1,0 +1,9 @@
+{
+  "name": "com.hassakulab.numerics",
+  "displayName": "HassakuLab.Numerics",
+  "version": "0.0.1",
+  "description": "Numeric utilities for Unity",
+  "dependencies": {
+    
+  }
+}
